@@ -1,1 +1,1 @@
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Gr40in) 
+[![codewars](https://www.codewars.com/users/Gr40in/badges/large)](https://www.codewars.com/users/Gr40in) 
